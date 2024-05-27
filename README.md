@@ -1,7 +1,7 @@
 # Boilerplate de Autenticação JWT em Java com Spring Boot
 
 ## Introdução
-Este documento fornece um boilerplate para configurar a autenticação JWT (JSON Web Token) em uma aplicação Spring Boot. JWT é um meio compacto e seguro de representar reivindicações a serem transferidas entre duas partes. Este exemplo guiará você na configuração de um sistema de autenticação básico usando JWT.
+Este documento fornece um boilerplate para configurar a autenticação JWT (JSON Web Token) em uma aplicação Spring Boot.
 
 ## Dependências
 Aqui estão as dependências utilizadas no projeto, especificadas no arquivo `pom.xml`:
